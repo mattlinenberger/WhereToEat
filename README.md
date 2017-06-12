@@ -1,0 +1,2 @@
+# WhereToEat
+Random Restaurant Generator
